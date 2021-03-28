@@ -103,7 +103,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mrf.zvx\n' // Nama
 + 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=+6281996270246:+62 819-9627-0246\n' // Nomor bot
++ 'TEL;type=CELL;type=VOICE;waid=6281996270246:+62 819-9627-0246\n' // Nomor bot
 + 'END:VCARD' 
 
 
